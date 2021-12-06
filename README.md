@@ -1,5 +1,5 @@
 # Newsletter-Signup
-This is a newsletter signup webapp that lets you signup for a newsletter service.
+This is a demo newsletter signup webapp that lets you signup for a newsletter service.
 
 
 #Screenshot
